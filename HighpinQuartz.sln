@@ -1,0 +1,112 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuartzComponent", "QuartzComponent\QuartzComponent.csproj", "{620FB528-7E32-472B-BEDF-45C15A54F6A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuartzHandle", "QuartzHandle\QuartzHandle.csproj", "{7A58F7EC-B894-4693-B6B0-3FBA8A53A7CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoService", "DemoService\DemoService.csproj", "{3CF60DE7-01C7-4ACC-9BBA-1A7EBF8775B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BQuartzTask", "BQuartzTask\BQuartzTask.csproj", "{E8D67C8E-A69D-4F44-A53D-91669D58E552}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQuartzTask", "CQuartzTask\CQuartzTask.csproj", "{A796634F-D6A3-4296-87FB-46515A29E0E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoUser", "DemoUser\DemoUser.csproj", "{3AAB8CE7-3D62-4D14-AA1D-9D9AFB82B9E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuartzHelper", "QuartzHelper\QuartzHelper.csproj", "{0F4874EC-1BE2-4089-9CA7-EEC882D1CB8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DQuartzTask", "DQuartzTask\DQuartzTask.csproj", "{237FA161-3D9E-4853-ACE7-A1B547B62FB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuartzBench", "QuartzBench\QuartzBench.csproj", "{CD9FC9FD-5270-4ED9-A285-4905616E7101}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuartzService", "QuartzService\QuartzService.csproj", "{3C15F6A1-2819-4ED1-82FE-4EA1F2152F47}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 11
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://192.168.66.184:8080/tfs/highendcode
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = QuartzComponent\\QuartzComponent.csproj
+		SccProjectName1 = QuartzComponent
+		SccLocalPath1 = QuartzComponent
+		SccProjectUniqueName2 = QuartzHandle\\QuartzHandle.csproj
+		SccProjectName2 = QuartzHandle
+		SccLocalPath2 = QuartzHandle
+		SccProjectUniqueName3 = DemoService\\DemoService.csproj
+		SccProjectName3 = DemoService
+		SccLocalPath3 = DemoService
+		SccProjectUniqueName4 = BQuartzTask\\BQuartzTask.csproj
+		SccProjectName4 = BQuartzTask
+		SccLocalPath4 = BQuartzTask
+		SccProjectUniqueName5 = CQuartzTask\\CQuartzTask.csproj
+		SccProjectName5 = CQuartzTask
+		SccLocalPath5 = CQuartzTask
+		SccProjectUniqueName6 = DemoUser\\DemoUser.csproj
+		SccProjectName6 = DemoUser
+		SccLocalPath6 = DemoUser
+		SccProjectUniqueName7 = QuartzHelper\\QuartzHelper.csproj
+		SccProjectName7 = QuartzHelper
+		SccLocalPath7 = QuartzHelper
+		SccProjectUniqueName8 = DQuartzTask\\DQuartzTask.csproj
+		SccProjectName8 = DQuartzTask
+		SccLocalPath8 = DQuartzTask
+		SccProjectUniqueName9 = QuartzBench\\QuartzBench.csproj
+		SccProjectName9 = QuartzBench
+		SccLocalPath9 = QuartzBench
+		SccProjectUniqueName10 = QuartzService\\QuartzService.csproj
+		SccProjectName10 = QuartzService
+		SccLocalPath10 = QuartzService
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{620FB528-7E32-472B-BEDF-45C15A54F6A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{620FB528-7E32-472B-BEDF-45C15A54F6A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{620FB528-7E32-472B-BEDF-45C15A54F6A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{620FB528-7E32-472B-BEDF-45C15A54F6A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A58F7EC-B894-4693-B6B0-3FBA8A53A7CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A58F7EC-B894-4693-B6B0-3FBA8A53A7CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A58F7EC-B894-4693-B6B0-3FBA8A53A7CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A58F7EC-B894-4693-B6B0-3FBA8A53A7CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CF60DE7-01C7-4ACC-9BBA-1A7EBF8775B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CF60DE7-01C7-4ACC-9BBA-1A7EBF8775B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CF60DE7-01C7-4ACC-9BBA-1A7EBF8775B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CF60DE7-01C7-4ACC-9BBA-1A7EBF8775B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8D67C8E-A69D-4F44-A53D-91669D58E552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8D67C8E-A69D-4F44-A53D-91669D58E552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8D67C8E-A69D-4F44-A53D-91669D58E552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8D67C8E-A69D-4F44-A53D-91669D58E552}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A796634F-D6A3-4296-87FB-46515A29E0E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A796634F-D6A3-4296-87FB-46515A29E0E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A796634F-D6A3-4296-87FB-46515A29E0E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A796634F-D6A3-4296-87FB-46515A29E0E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AAB8CE7-3D62-4D14-AA1D-9D9AFB82B9E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AAB8CE7-3D62-4D14-AA1D-9D9AFB82B9E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AAB8CE7-3D62-4D14-AA1D-9D9AFB82B9E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AAB8CE7-3D62-4D14-AA1D-9D9AFB82B9E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F4874EC-1BE2-4089-9CA7-EEC882D1CB8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F4874EC-1BE2-4089-9CA7-EEC882D1CB8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F4874EC-1BE2-4089-9CA7-EEC882D1CB8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F4874EC-1BE2-4089-9CA7-EEC882D1CB8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{237FA161-3D9E-4853-ACE7-A1B547B62FB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{237FA161-3D9E-4853-ACE7-A1B547B62FB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{237FA161-3D9E-4853-ACE7-A1B547B62FB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{237FA161-3D9E-4853-ACE7-A1B547B62FB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD9FC9FD-5270-4ED9-A285-4905616E7101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD9FC9FD-5270-4ED9-A285-4905616E7101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD9FC9FD-5270-4ED9-A285-4905616E7101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD9FC9FD-5270-4ED9-A285-4905616E7101}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C15F6A1-2819-4ED1-82FE-4EA1F2152F47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C15F6A1-2819-4ED1-82FE-4EA1F2152F47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C15F6A1-2819-4ED1-82FE-4EA1F2152F47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C15F6A1-2819-4ED1-82FE-4EA1F2152F47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

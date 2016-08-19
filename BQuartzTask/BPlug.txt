@@ -1,0 +1,3 @@
+JOBNAME=B
+GROUPNAME=Bground
+CRONEXPRESSION=/15 * * ? * *
